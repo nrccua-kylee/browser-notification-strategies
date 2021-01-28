@@ -1,16 +1,15 @@
 # Browser-based Notification Strategies
 
-- [Browser-based Notification Strategies](#browser-based-notification-strategies)
-  - [Web Push Notifications](#web-push-notifications)
-    - [Are push services free?](#are-push-services-free)
-    - [Application Server Keys and the VAPID Spec](#application-server-keys-and-the-vapid-spec)
-    - [Implementing Web Push Notifications](#implementing-web-push-notifications)
-  - [In-app Messaging](#in-app-messaging)
-    - [WebSockets](#websockets)
-    - [Server Sent Events](#server-sent-events)
-    - [Long Polling](#long-polling)
-  - [Related Technologies and Other Solutions](#related-technologies-and-other-solutions)
-  - [Additional Thoughts](#additional-thoughts)
+- [Web Push Notifications](#web-push-notifications)
+  - [Are push services free?](#are-push-services-free)
+  - [Application Server Keys and the VAPID Spec](#application-server-keys-and-the-vapid-spec)
+  - [Implementing Web Push Notifications](#implementing-web-push-notifications)
+- [In-app Messaging](#in-app-messaging)
+  - [WebSockets](#websockets)
+  - [Server Sent Events](#server-sent-events)
+  - [Long Polling](#long-polling)
+- [Related Technologies and Other Solutions](#related-technologies-and-other-solutions)
+- [Additional Thoughts](#additional-thoughts)
 
 ## Web Push Notifications
 
