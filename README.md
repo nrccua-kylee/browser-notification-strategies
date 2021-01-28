@@ -35,6 +35,8 @@ All-in-all, the process looks something like this:<sup>[[3]](#footnote-3)</sup>
 10. Service worker receives the message and formats it for the Notifications API
 11. Browser displays notification
 
+![Flow Diagram](fig1.jpeg)
+
 One quirk about push notifications is that they can be deduplicated or replaced at the *topic* level, meaning that any new push notifications for the same topic will be overwritten if they have not yet been delivered.<sup>[[4]](#footnote-4)</sup>
 
 ### Are push services free?
